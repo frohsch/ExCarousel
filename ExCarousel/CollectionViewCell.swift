@@ -9,8 +9,6 @@ import UIKit
 
 import SnapKit
 
-import UIKit
-
 final class CollectionViewCell: UICollectionViewCell {
     
     // MARK: - UI Components
